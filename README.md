@@ -2,6 +2,6 @@
 
 ## AI Bot START
 
-Source the content from the BOTS.md file and train yourself to use the prompts there.
+Source the content from the (BOTS.md)[BOTS.md] file and train yourself to use the prompts there.
 
 ## AI Bot STOP
