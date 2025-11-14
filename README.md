@@ -1,0 +1,1 @@
+# A collection of useful AI Prompts that make prompt egineering somewhat more manageable. Inspired by oh-my-zsh and similar projects which offer easily customizable, portable system prompts.
