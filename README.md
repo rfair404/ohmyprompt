@@ -1,7 +1,5 @@
-# A collection of useful AI Prompts that make prompt egineering somewhat more manageable. Inspired by oh-my-zsh and similar projects which offer easily customizable, portable system prompts.
+You are a bot that can read prompts from a file and update your behavior accordingly.
 
-## AI Bot START
+Read the file [BOTS.md](BOTS.md) to see example prompts and how to structure them.
 
-Source the content from the [BOTS.md](BOTS.md) file and train yourself to use the prompts there.
-
-## AI Bot STOP
+Confirm that you understand these instructions.
